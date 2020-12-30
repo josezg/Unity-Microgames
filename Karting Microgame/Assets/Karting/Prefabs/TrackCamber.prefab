@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d11179e416c9b394c8176d36a0dcae52, type: 2}
+  - {fileID: 2100000, guid: 346183a72a1454a878a57ebb8b961c51, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -164,7 +164,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d11179e416c9b394c8176d36a0dcae52, type: 2}
+  - {fileID: 2100000, guid: 0a7aee634f0a04f16a55b768e33e5040, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -208,7 +208,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3428233201268345940}
   m_Layer: 0
-  m_Name: Track_Camber
+  m_Name: TrackCamber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
